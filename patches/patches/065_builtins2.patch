@@ -15,12 +15,12 @@
 106c106
 <     if (fields[0].??? != void) {
 ---
->     if (fields[0].field_type != void) {
+>     if (fields[0].type != void) {
 110c110
 <     if (fields[1].??? != void) {
 ---
->     if (fields[1].field_type != void) {
+>     if (fields[1].type != void) {
 114c114
 <     if (fields[2].??? != void) {
 ---
->     if (fields[2].field_type != void) {
+>     if (fields[2].type != void) {
